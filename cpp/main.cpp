@@ -1,7 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
     // Zadanie 3: dopisz login lub pseudonim do komunikatu.
-    std::cout << "Hello from C++!" << '\n';
+    printf("Hello from C++! Author: DrXther"); // printf > cout
     return 0;
 }
